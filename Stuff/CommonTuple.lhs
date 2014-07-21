@@ -1,4 +1,4 @@
-> module CommonTuple where
+> module Stuff.CommonTuple where
 
 Common tuple funktion
 The tuple function is bijective function that creates from

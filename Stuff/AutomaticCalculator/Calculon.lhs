@@ -27,8 +27,8 @@ Gliederung
 0) Endlich mal was praktisches
 -------------------------------------------------------------------------------
 
-> module Calculon where
-> import Parser
+> module Stuff.AutomaticCalculator.Calculon where
+> import Stuff.AutomaticCalculator.Parser
 > import Data.List (nub)
 
 

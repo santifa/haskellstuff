@@ -1,4 +1,4 @@
-module Parser (Parser,
+module Stuff.AutomaticCalculator.Parser (Parser,
                apply,
                applyParser,
                symbol,
