@@ -1,4 +1,4 @@
-Wir schreiben uns eine d mandelbrotmenge.
+Wir schreiben uns eine mandelbrotmenge.
 
 > module Stuff.Mandel where
 > import Graphics.Rendering.OpenGL
