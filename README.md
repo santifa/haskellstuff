@@ -1,4 +1,4 @@
 haskellstuff
 ============
 
-Some things I wrote in Haskell. Just for fun.
+Some things I wrote in haskell, just for fun.
