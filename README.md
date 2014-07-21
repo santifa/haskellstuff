@@ -23,6 +23,6 @@ Feel free to fork this project and use it or parts for your own coding.
 Overview
 ===
 
-Automatic calculator => Proves programs by code transformation. (German)
-Common tuple => Standard tuple function from the primitive recursive function. (English)
-Mandel => Mandelbrot function in 3d (German)
+Automatic calculator => Proves programs by code transformation. (German)  
+Common tuple => Standard tuple function from the primitive recursive function. (English)  
+Mandel => Mandelbrot function in 3d (German)  
