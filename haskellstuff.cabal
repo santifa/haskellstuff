@@ -27,10 +27,11 @@ extra-source-files:  README.md
 cabal-version:       >=1.10
 
 library
-  exposed-modules:     Stuff.CommonTuple, Stuff.AutomaticCalculator.Calculon
+  exposed-modules:     Stuff.CommonTuple, Stuff.AutomaticCalculator.Calculon, Stuff.ProjectEuler.ProjectEuler
   -- other-modules:       
   -- other-extensions:    
-  build-depends:       base >=4.7 && <4.8
+  build-depends:      base >=4.7 && <4.8,
+                      primes >= 0.2.0.0
 
 -- hs-source-dirs:      
   default-language:    Haskell2010
