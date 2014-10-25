@@ -1,18 +1,18 @@
 haskellstuff
 ============
 
-Some things I wrote in haskell, just for fun.
+Some things I wrote on my journey learning Haskell.
 
 I use .lhs files in Bird-Style for describing the functions.
-Not everything I wrote is in english, some parts are in german.
+Not everything I wrote is in english.
 If you want something translated feel free to ask or submit an issue.
-This is all work in progress...
+This is all work in progress... and maybe never done...
 
 Contribute
 ===
 
 This library is only meant for me, but I welcome everyone who correct
-typos or translate my description into english. ;)
+typos, incorrect code or translate my description into english. ;)
 
 Copyright
 ===
@@ -25,4 +25,6 @@ Overview
 
 Automatic calculator => Proves programs by code transformation. (German)  
 Common tuple => Standard tuple function from the primitive recursive function. (English)  
-Mandel => Mandelbrot function in 3d (German)  
+ProjectEuler => My project euler solutions.  
+MonadThing => Some notes about Monads.  
+Othello => The game [Othello](https://en.wikipedia.org/wiki/Reversi) (German)  
